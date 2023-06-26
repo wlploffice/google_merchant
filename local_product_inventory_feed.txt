@@ -1,5 +1,5 @@
 store code	id	price	quantity	availability
-woonleng	18598	8.00 SGD	999	in stock
+woonleng	18598	8.00 SGD	999	in stock 
 woonleng	21338	155.00 SGD	999	in stock
 woonleng	14607	65.00 SGD	999	in stock
 woonleng	16736	12.00 SGD	999	in stock
