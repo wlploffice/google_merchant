@@ -137,7 +137,6 @@ woonleng	15402	120.00 SGD	999	in stock
 woonleng	18612	450.00 SGD	999	in stock
 woonleng	16686	12.00 SGD	999	in stock
 woonleng	15489	5.00 SGD	999	in stock
-woonleng	13852	1800.00 SGD	999	in stock
 woonleng	13867	480.00 SGD	999	in stock
 woonleng	13723	33.80 SGD	999	in stock
 woonleng	14810	20.00 SGD	999	in stock
@@ -510,7 +509,6 @@ woonleng	14549	188.80 SGD	999	in stock
 woonleng	11705	45.00 SGD	999	in stock
 woonleng	18658	20.00 SGD	999	in stock
 woonleng	18874	55.00 SGD	999	in stock
-woonleng	27431	15.00 SGD	999	in stock
 woonleng	15341	68.00 SGD	999	in stock
 woonleng	14151	25.00 SGD	999	in stock
 woonleng	12064	22.00 SGD	999	in stock
